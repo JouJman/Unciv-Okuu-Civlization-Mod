@@ -1,0 +1,12 @@
+{
+		"name": "Hell's Heart",
+		"replaces": "Ironworks",
+		"uniqueTo": "Hell of Blazing Fires",
+		"cost": 140,
+		"production": 8,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Workshop] in all cities", "Cost increases by [30] per owned city",
+			"Gain a free [Nuclear Plant] [in this city]"
+		"requiredTech": "Machinery"
+	},
