@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Hell of Blazing Fires",
+		"leaderName": "Utsuho Reiuji",
+		"adjective": ["Helleins"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "I have just received a report that large numbers of my troops have crossed your borders.",
+		"attacked": "Pitiful fool! Now we shall destroy you!",
+		"defeated": "Now the question is who will protect my people. A dark age has come.",
+		"introduction": "Welcome Hell!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [ff,00,00],
+		"innerColor": [00,00,00],
+		"favoredReligion": "Shinto",
+		"unique": ["Provides [3] [Uranium]","[+33]% Production when constructing Atomic Bomb and Nuclear Missile [in all cities]"],
+		"cities": ["Old Hell Enter","Reivu n no Ha","Ikuji no Konseki","Nagai ku Chi ba Shi","Senta Kara Deru","Raito Furaito","En no Hansha"]
+	}
+]
